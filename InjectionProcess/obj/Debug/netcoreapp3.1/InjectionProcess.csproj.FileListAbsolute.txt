@@ -1,0 +1,13 @@
+F:\Blood\Injection\InjectionProcess\InjectionProcess\bin\Debug\netcoreapp3.1\InjectionProcess.exe
+F:\Blood\Injection\InjectionProcess\InjectionProcess\bin\Debug\netcoreapp3.1\InjectionProcess.deps.json
+F:\Blood\Injection\InjectionProcess\InjectionProcess\bin\Debug\netcoreapp3.1\InjectionProcess.runtimeconfig.json
+F:\Blood\Injection\InjectionProcess\InjectionProcess\bin\Debug\netcoreapp3.1\InjectionProcess.runtimeconfig.dev.json
+F:\Blood\Injection\InjectionProcess\InjectionProcess\bin\Debug\netcoreapp3.1\InjectionProcess.dll
+F:\Blood\Injection\InjectionProcess\InjectionProcess\bin\Debug\netcoreapp3.1\InjectionProcess.pdb
+F:\Blood\Injection\InjectionProcess\InjectionProcess\obj\Debug\netcoreapp3.1\InjectionProcess.csprojAssemblyReference.cache
+F:\Blood\Injection\InjectionProcess\InjectionProcess\obj\Debug\netcoreapp3.1\InjectionProcess.AssemblyInfoInputs.cache
+F:\Blood\Injection\InjectionProcess\InjectionProcess\obj\Debug\netcoreapp3.1\InjectionProcess.AssemblyInfo.cs
+F:\Blood\Injection\InjectionProcess\InjectionProcess\obj\Debug\netcoreapp3.1\InjectionProcess.csproj.CoreCompileInputs.cache
+F:\Blood\Injection\InjectionProcess\InjectionProcess\obj\Debug\netcoreapp3.1\InjectionProcess.dll
+F:\Blood\Injection\InjectionProcess\InjectionProcess\obj\Debug\netcoreapp3.1\InjectionProcess.pdb
+F:\Blood\Injection\InjectionProcess\InjectionProcess\obj\Debug\netcoreapp3.1\InjectionProcess.genruntimeconfig.cache
